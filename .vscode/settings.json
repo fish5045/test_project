@@ -1,0 +1,9 @@
+{
+    "code-runner.cwd": "/src/python",
+    "code-runner.customCommand": "cd src",
+    "python.defaultInterpreterPath": "C:\\Users\\ASUS\\mambaforge\\envs\\main3.8\\python.exe",
+    "python.envFile": "${workspaceFolder}/.envcd",
+    "python.terminal.executeInFileDir": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "python.condaPath": "C:\\Users\\fish5\\mambaforge\\condabin\\conda.bat"
+}
